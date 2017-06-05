@@ -6,7 +6,8 @@
     background-size: cover;
     background-repeat: no-repeat;
     padding-top:25px;
-    overflow: hidden;
+    position: absolute;
+
 }
 
 .booked-main-container h1 {
